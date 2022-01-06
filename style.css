@@ -14,10 +14,15 @@ h1{
     font-size: 60px;
     font-stretch: wider;
 }
+h2{
+    font-size: 30px;
+}
 .flex-container{
     display: flex;
-    width: 100%;
+    width: 90%;
     margin-bottom: 45px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 .bannerimg{
     width: 50%;
@@ -74,4 +79,18 @@ h1{
         background-repeat: no-repeat;
         background-size: 100px; background-position-y: center;
         
+}
+#comm-img{
+    width: 60%;
+    margin-left: 150px;
+    
+   
+
+
+        
+}
+#comm-box{
+    width: 40%;
+
+    
 }
